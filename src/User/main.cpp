@@ -7,7 +7,7 @@
 
 #include "St7920Emulator.hpp"
 
-#define COLOR_FOREGROUND WHITE
+#define COLOR_FOREGROUND ORANGE
 #define COLOR_BACKGROUND BLACK
 
 #define ST7920_GXROWS  128
