@@ -1,7 +1,7 @@
 #pragma once
 
 // Screen colors
-#define LCD_COLOR_FOREGROUND WHITE
+#define LCD_COLOR_FOREGROUND ORANGE
 #define LCD_COLOR_BACKGROUND BLACK
 
 // Enable fullscreen mode
